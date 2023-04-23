@@ -2,7 +2,7 @@ from typing import Union
 
 from pyrogram.types import InlineKeyboardButton
 
-import config
+from config import SUPPORT_CHANNEL, SUPPORT_GROUP, BOT_USERNAME, OWNER, GITHUB_REPO
 from ShizukaXMusic import app
 
 
