@@ -55,7 +55,7 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Best_FriendsFor_Ever",
+        "value": "https://t.me/Star_X_Support",
         "required": false
       },
       "SUPPORT_CHANNEL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/ShizukaXMusic",
+        "value": "https://github.com/itz-star-boi/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
