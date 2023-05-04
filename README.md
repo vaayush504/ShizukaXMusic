@@ -6,11 +6,14 @@
 
 <p align="center">
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/itz-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/itz-star-boi/ShizukaXMusic"> 
+<img src="https://img.shields.io/github/repo-size/itz-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/itz-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/itz-star-boi/ShizukaXMusic/commits/prince"> 
+<img src="https://img.shields.io/github/last-commit/itz-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/itz-star-boi/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/itz-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/itz-star-boi/ShizukaXMusic/issues"> 
+<img src="https://img.shields.io/github/issues/itz-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/itz-star-boi/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/itz-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
 
